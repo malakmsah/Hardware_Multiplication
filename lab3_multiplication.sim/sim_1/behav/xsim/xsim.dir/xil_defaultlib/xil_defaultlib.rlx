@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/malak/vivadoprojects/lab3_multiplication/lab3_multiplication.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/malak/vivadoprojects/lab3_multiplication/lab3_multiplication.srcs/sim_1/new/mult_tb.v,1586803183,verilog,,,,mult_tb,,,,,,,,
+/home/malak/vivadoprojects/lab3_multiplication/lab3_multiplication.srcs/sources_1/new/adder.v,1586799518,verilog,,/home/malak/vivadoprojects/lab3_multiplication/lab3_multiplication.srcs/sources_1/new/mult4.v,,adder,,,,,,,,
+/home/malak/vivadoprojects/lab3_multiplication/lab3_multiplication.srcs/sources_1/new/mult4.v,1586803264,verilog,,/home/malak/vivadoprojects/lab3_multiplication/lab3_multiplication.srcs/sources_1/new/processingunit.v,,mult4,,,,,,,,
+/home/malak/vivadoprojects/lab3_multiplication/lab3_multiplication.srcs/sources_1/new/processingunit.v,1586799438,verilog,,/home/malak/vivadoprojects/lab3_multiplication/lab3_multiplication.srcs/sim_1/new/mult_tb.v,,processingunit,,,,,,,,
