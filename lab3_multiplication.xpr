@@ -122,8 +122,10 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PPRDIR/mult_tb_behav.wcfg">
+      <File Path="$PSRCDIR/sim_1/imports/lab3_multiplication/mult_tb_behav.wcfg">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/mult_tb_behav.wcfg"/>
+          <Attr Name="ImportTime" Val="1586808005"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
